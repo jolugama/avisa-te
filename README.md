@@ -12,7 +12,10 @@ imagen | Componente |  precio (u) | url
 ------- |------------- |------- | --------
 <img src="./images/components/wemos-d1-mini.png" width="120"> | 2x wemos d1 mini (esp8266) |  1,63€  | [Aliexpress](https://es.aliexpress.com/item/32958591238.html?spm=a2g0s.9042311.0.0.274263c01DRJqH)
 sin imagen | cables conexión proboard de colores | - | -
-
+sin imagen | protoboard 400 | - | -
+sin imagen | led rgb | - | -
+sin imagen | vl6180x | - | -
+sin imagen | mlx90614 | - | -
 
 
 ## Esquema circuito en protoboard
