@@ -1,6 +1,6 @@
 # Avisa-te
 
-Proyecto para avisar que tu té está en la temperatura exacta para tomar. Por defecto está a 54 grados, lo puedes modificar. 
+Proyecto para que avise que tu té está en la temperatura exacta para tomar. Por defecto está a 54 grados, lo puedes modificar. 
 
 Usando una wemos d1 mini esp6266, junto con varios sensores, con un mínimo de presupuesto y fácil de montar.
 
