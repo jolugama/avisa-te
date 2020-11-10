@@ -22,6 +22,7 @@ sin imagen | Led rgb | - | -
 sin imagen | Vl6180x | - | -
 sin imagen | Mlx90614 | - | -
 sin imagen | zumbador pasivo | - | -
+sin imagen | 3 resistencias 220ohm | - | -
 
 <!-- ## Lista herramientas necesarias -->
 
