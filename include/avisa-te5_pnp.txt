@@ -1,0 +1,23 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=avisa-te5
+*Date=19:13:45
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;220;THT;5.21685;-24.4019;-90;Bottom;R1
+2;;;22.054;-15.5123;90;Bottom;WeMos D1 Mini1
+3;;5 mm [THT];6.87078;-37.1019;0;Bottom;LED
+4;;;50.9369;-14.2419;180;Bottom;vl6180x
+5;220;THT;2.67685;-23.1319;90;Bottom;R3
+6;220;THT;9.02685;-28.2119;-90;Bottom;R2
+7;;Breakout board;24.893;-37.1071;90;Bottom;zumbador
+8;;;50.937;-30.6561;180;Bottom;mlx90614
