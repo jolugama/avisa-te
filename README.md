@@ -1,4 +1,4 @@
-# Avisa-te
+# Avisa-té
 
 Proyecto para que avise que tu té está en la temperatura exacta para tomar. Por defecto está a 54 grados, lo puedes modificar. 
 
