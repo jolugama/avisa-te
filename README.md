@@ -7,6 +7,14 @@ Usando una wemos d1 mini esp6266, junto con varios sensores, con un mínimo de p
 
 <img src="./images/avisa-te.jpg" width="400"> 
 
+## Funcionamiento
+
+Funciona por micro-usb  a usb. 
+- Detecta que el taza esté en la posición correcta (color rojo, y no azul). Para ello dispones de 10 segundos en los que se detecta de forma continuada (cada) la temperatura de la taza y la posición. 
+- Cada minuto chequea la temperatura
+- Cada 300ms detecta posición taza
+- Si la temperatura es correcta, led pasa a verde, y se dispara una canción random por el buzzer. 
+- Después entra en un profundo sueño de varias horas. Se debe desconectar, aunque ya no consume apenas. 
 
 ## Prerrequisitos
 Uso platformio, por lo que se debe instalar visual code, plugin platformio. 
